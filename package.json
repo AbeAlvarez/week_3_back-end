@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AbeAlvarez/my_launchx_app/issues"
   },
-  "homepage": "https://github.com/AbeAlvarez/my_launchx_app#readme"
+  "homepage": "https://github.com/AbeAlvarez/my_launchx_app#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
 }
