@@ -1,1 +1,1 @@
-# my_launchx_app
+# Creación de nuevo proyecto JS y pruebas de unidad
