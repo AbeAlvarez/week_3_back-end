@@ -5,7 +5,6 @@ describe("Unite test for superhero", () => {
 
         const aironman= new superhero("Iron Man", "Tony Stark", "Robert Downey Jr.")
 
-        expect(aironman.name).toBe("Iron Man")
         expect(aironman.realName).toBe("Tony Stark")
         expect(aironman.actor).toBe("Robert Downey Jr.")
     });
